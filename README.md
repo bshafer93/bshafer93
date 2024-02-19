@@ -2,7 +2,7 @@
 
 I am Brent Shafer and welcome to my profile. Feel free to peruse any of my latest projects and experiments! 
 
-I'm a lifelong learner and love noodling in many programming languages. I focus most of my energy on learning back-end development, but love to dabble with graphics programming too.
+I'm a lifelong learner and love noodling in many programming languages. I focus most of my energy on learning back-end development, but I am also fully capable of full-stack development.  In my free time, I also love to dabble in graphics programming and test out new languages. 
 
 <!--
 **bshafer93/bshafer93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
